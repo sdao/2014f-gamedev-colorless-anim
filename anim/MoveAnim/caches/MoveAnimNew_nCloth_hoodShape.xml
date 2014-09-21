@@ -4,7 +4,7 @@
   <time Range="250-60000"/>
   <cacheTimePerFrame TimePerFrame="250"/>
   <cacheVersion Version="2.0"/>
-  <extra>/Users/Steve/Perforce/sdao-gamedev/Team3/anim/charnew/MoveAnim_01/MoveAnimNew_Looped.mb</extra>
+  <extra>/Users/Steve/Repos/2014f-gamedev-colorless-anim/anim/MoveAnim/MoveAnimNew.ma</extra>
   <extra>maya 2014 x64</extra>
   <extra>Steve</extra>
   <extra>NCloth Info for nCloth_hoodShape:</extra>
