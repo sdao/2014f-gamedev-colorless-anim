@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Autodesk_Cache_File>
+  <cacheType Type="OneFile" Format="mcx"/>
+  <time Range="15000-36250"/>
+  <cacheTimePerFrame TimePerFrame="250"/>
+  <cacheVersion Version="2.0"/>
+  <extra>/Users/Steve/Repos/2014f-gamedev-colorless-anim/anim/MoveAnim/MoveAnimNew_Looped.ma</extra>
+  <extra>maya 2014 x64</extra>
+  <extra>Steve</extra>
+  <Channels>
+    <channel0 ChannelName="nCloth_hoodShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="15000" EndTime="36250"/>
+    <channel1 ChannelName="nCloth_cloakShape" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="15000" EndTime="36250"/>
+  </Channels>
+</Autodesk_Cache_File>
